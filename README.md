@@ -1,7 +1,6 @@
 # Visual-tactile Fusion for Transparent Object Grasping in Complex Backgrounds
 We propose TGCNN model, which is a generative architecture that takes in a 3-channel input RGB image and generates pixel-wise grasps in the form of two images. The 3-channel RGB image is passed through convolutional layers, residual layers and convolution transpose layers to generate two images.
 
-![image-20220709221506379](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20220709221506379.png)
 
 ## Dataset
 
